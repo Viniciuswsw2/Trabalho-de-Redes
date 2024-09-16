@@ -118,9 +118,9 @@ class TicTacToeClient
                             // Mensagem de vitória personalizada
                             Console.WriteLine();
                             Console.WriteLine("╔═══════════════════════════════╗");
-                            Console.WriteLine("║      PARABÉNS! VOCÊ VENCEU!    ║");
-                            Console.WriteLine("║  Você dominou o Jogo da Velha  ║");
-                            Console.WriteLine($"║       com o jogador '{playerSymbol}'!       ║");
+                            Console.WriteLine("║     PARABÉNS! VOCÊ VENCEU!    ║");
+                            Console.WriteLine("║ Você dominou o Jogo da Velha  ║");
+                            Console.WriteLine($"║      com o jogador '{playerSymbol}'!       ║");
                             Console.WriteLine("╚═══════════════════════════════╝");
                             Console.WriteLine();
                         }
